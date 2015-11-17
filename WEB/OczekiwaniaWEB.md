@@ -1,12 +1,25 @@
-1.	Za³o¿enia : 
-•	Na stronie powinna byæ mo¿liwoœæ zalogowania siê i za³o¿enia konta
-•	U¿ytkownik powinien mieæ mo¿liwoœæ wyboru i wypo¿yczenia filmu za pomoc¹ strony
-•	Filmy powinno daæ siê posortowaæ po gatunku, dacie premiery, alfabetycznie, iloœæ gwiazdek
-•	Najczêœciej ogl¹dane
-•	Powinna byæ wyszukiwarka
-•	Na stronie g³ównej powinny byæ takie zak³adki jak : Strona g³ówna, Kontakt, Cennik, Menu 
-•	Powinien byæ podczas rezerwacji filmu na stronie: 
-•	Kategoria ( 1,2,3 itp. Wg roku filmu, od którego zale¿y cena wypo¿yczenia ) Cena (wyliczona na podstawie kategorii filmu ) Data od kiedy do kiedy mo¿na go wypo¿yczyæ. 
-•	Wybór filmu Blue-Ray or DVD - ( Blue-ray dro¿szy )
-•	Strona wystawiona na œwiat 
-•	Strona powinna zaci¹gaæ listê filmów z bazy danych
+1.	ZaÅ‚oÅ¼enia : 
+
+â€¢	Na stronie powinna byÄ‡ moÅ¼liwoÅ›Ä‡ zalogowania siÄ™ i zaÅ‚oÅ¼enia konta
+
+â€¢	UÅ¼ytkownik powinien mieÄ‡ moÅ¼liwoÅ›Ä‡ wyboru i wypoÅ¼yczenia filmu za pomocÄ… strony
+
+â€¢	Filmy powinno daÄ‡ siÄ™ posortowaÄ‡ po gatunku, dacie premiery, alfabetycznie, iloÅ›Ä‡ gwiazdek
+
+â€¢	NajczÄ™Å›ciej oglÄ…dane
+
+â€¢	Powinna byÄ‡ wyszukiwarka
+
+â€¢	Na stronie gÅ‚Ã³wnej powinny byÄ‡ takie zakÅ‚adki jak : Strona gÅ‚Ã³wna, Kontakt, Cennik, Menu 
+
+Powinny byÄ‡ podczas rezerwacji filmu na stronie: 
+
+- Kategoria ( 1,2,3 itp. Wg roku filmu, od ktÃ³rego zaleÅ¼y cena wypoÅ¼yczenia ) 
+- Cena (wyliczona na podstawie kategorii filmu)
+- Data od kiedy do kiedy moÅ¼na go wypoÅ¼yczyÄ‡. 
+
+â€¢	WybÃ³r filmu Blu-Ray or DVD - ( Blu-ray droÅ¼szy )
+
+â€¢	Strona wystawiona na Å›wiat 
+
+â€¢	Strona powinna zaciÄ…gaÄ‡ listÄ™ filmÃ³w z bazy danych
