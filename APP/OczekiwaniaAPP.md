@@ -1,6 +1,9 @@
-1.	Za³o¿enia:
+1.	ZaÅ‚oÅ¼enia:
 
-•	Administrator wypo¿yczalni ma panel do zarz¹dzania filmami. 
-•	Mo¿e dodawaæ nowe filmy zmieniaæ im statusy na wypo¿yczony itp.. Ma byæ modu³ licz¹cy cenê wypo¿yczenia i naliczaj¹cy kary 
-•	W przypadku nie zwrócenia filmu w terminie.
-•	Admin mo¿e usuwaæ filmy z listy.
+â€¢	Administrator wypoÅ¼yczalni ma panel do zarzÄ…dzania filmami. 
+
+â€¢	MoÅ¼e dodawaÄ‡ nowe filmy zmieniaÄ‡ im statusy na wypoÅ¼yczony itp.. Ma byÄ‡ moduÅ‚ liczÄ…cy cenÄ™ wypoÅ¼yczenia i naliczajÄ…cy kary 
+
+â€¢	W przypadku nie zwrÃ³cenia filmu w terminie.
+
+â€¢	Admin moÅ¼e usuwaÄ‡ filmy z listy.
