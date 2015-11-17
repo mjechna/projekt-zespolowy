@@ -7,7 +7,9 @@ do zarzadzania filmami i wypozyczeniami.
 Zepsol dzielimy na 3 podgrupy:
 
 app : Patryk Kaminski, Mateusz Swiderski, Pawel Szydlik
+
 web: Lukasz Kajdan, Marcin Hornowski, Adam Tyrala
+
 database: Michal Jechna, Mateusz Delezuch 
 
 Dla kazdej grupy bedzie zalozony folder, w ktorym beda informacje odnosnie oczekiwan od danej grupy.
