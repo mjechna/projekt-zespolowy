@@ -1,13 +1,19 @@
-1.	Lista filmów powinna mieæ takie pola jak:
+1.	Lista filmÃ³w powinna mieÄ‡ takie pola jak:
 
-•	Tytu³ 
-•	Gatunek
-•	Czas trwania
-•	Krótki opis
-•	Kategoria filmu ( wg Daty ) 
-•	Data filmu 
+â€¢	TytuÅ‚ 
 
-2. 	Powinny byæ tabele : 
+â€¢	Gatunek
 
-•	U¿ytkownicy
-•	Filmy
+â€¢	Czas trwania
+
+â€¢	KrÃ³tki opis
+
+â€¢	Kategoria filmu ( wg Daty ) 
+
+â€¢	Data filmu 
+
+2. 	Powinny byÄ‡ tabele : 
+
+â€¢	UÅ¼ytkownicy
+
+â€¢	Filmy
